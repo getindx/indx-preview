@@ -22,3 +22,8 @@ Contact: dev@indx.art
 This is an early preview, published for the Hermes hackathon. The skills and docs reflect current local development workflows and may need adjustment before the public indx beta.
 
 Use this as a preview of the integration direction, not as a standalone app release.
+
+
+## License
+
+License is not finalized yet. This preview repository is published for hackathon/context purposes while the broader indx licensing strategy is being decided.
