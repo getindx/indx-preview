@@ -1,0 +1,7 @@
+interface:
+  display_name: "indx Admin"
+  short_description: "Manage indx scans, jobs, directories, and settings."
+  default_prompt: "Use $indx-admin to manage watched directories, launch scans, poll jobs, and update startup-scan settings in indx."
+
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,7 @@
+interface:
+  display_name: "indx Library"
+  short_description: "Search and organize an indx media library."
+  default_prompt: "Use $indx-library to search, inspect, and update files, lists, and image sequences in an indx library."
+
+policy:
+  allow_implicit_invocation: true

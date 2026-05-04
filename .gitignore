@@ -1,0 +1,15 @@
+# OS/editor
+.DS_Store
+*.swp
+*.swo
+
+# local scratch
+.local/
+.env
+.env.*
+
+# logs/build artifacts
+*.log
+node_modules/
+dist/
+build/
