@@ -8,9 +8,6 @@ The full app is not released yet. This repository is a preview home for early He
 
 Open-source beta coming soon.
 
-Website: https://indx.art  
-Contact: dev@indx.art
-
 ## What is here now
 
 - `skills/indx-library/` — preview Hermes skill for searching, inspecting, annotating, and organizing an indx media library.
